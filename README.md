@@ -1,5 +1,10 @@
 # ROBLOX
 
-Every script in this repository is categorized correctly based on the game, and named based on what the script has within, or what the script will do.
+All script(s) related to ROBLOX which I have decided to share and archive.
 
-Over time, these script(s) may be patched; there is a chance of a script becoming honey potted, so if a script is old; please make sure to use it on an alt to avoid all risk of ban.
+If you would like to use any of these scripts, please note that they may not work due to
+the game changing how certain aspect(s) work.
+
+The script(s) may also be detected, as they are not maintained which mean(s) game developers can easily patch these and detect them.
+
+If you have any issue(s) with these script(s); please do not expect for me to fix them as all thing(s) that I create are mostly for fun and will never be maintained.
