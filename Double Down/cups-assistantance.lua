@@ -16,7 +16,7 @@ local Services = {
 
 local findPlayerArena = function(player)
 	for index, model in pairs(workspace.ArenasREAL:GetChildren()) do
-		if model:FindFirstChild("ArenaTemplate") and and model.ArenaTemplate:FindFirstChild("Blue") and model.ArenaTemplate.Blue:FindFirstChild("Character") and model.ArenaTemplate.Red:FindFirstChild("Character") then
+		if model:FindFirstChild("ArenaTemplate") and model.ArenaTemplate:FindFirstChild("Blue") and model.ArenaTemplate.Blue:FindFirstChild("Character") and model.ArenaTemplate.Red:FindFirstChild("Character") then
 			if model.ArenaTemplate.Blue.Character.Nametag.Frame.Username.Text == "@" .. player.Name then
 				return model
 			end
